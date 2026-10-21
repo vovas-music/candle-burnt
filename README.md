@@ -7,8 +7,8 @@ On the site: https://vovazakharov.com/music/candle-burnt
 ## Files
 
 - `candle-burnt_mix.mp3` — the mix, unmastered, as a 320 kbps mp3; the lossless WAV the master was made from is [`father-sea-09-candle-burnt.wav`](https://github.com/vzakharov/vovazakharov.com/releases/download/music-sources/father-sea-09-candle-burnt.wav).
-- `candle-burnt.flac` — the master, 24-bit.
-- `candle-burnt.master.mp3` — its 320 kbps mp3 copy.
+- `Полуживые - Свеча горела.flac` — the master, 24-bit.
+- `Полуживые - Свеча горела.mp3` — its 320 kbps mp3 copy.
 - `mastering/` — the script that made the master: `master.py`, the `spectrum.py` it imports, and their `requirements.txt`.
 
 ## How it was mastered
